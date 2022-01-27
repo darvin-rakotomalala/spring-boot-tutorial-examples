@@ -8,7 +8,8 @@ Dans ce repo, nous allons voir des exemples types de projet Spring Boot.
 
 ### Qu'est-ce Spring Boot ?
 ---
-**Spring boot** : un module spring, ou une super couche de spring pour créer desapplications spring avec zéro configuration.
+**Spring boot** : un module spring, ou une super couche de spring pour créer desapplications spring avec zéro configuration.<br/>
+**Spring Boot** est le framework Java le plus populaire et le plus utilisé pour créer des MicroServices. Spring Boot facilite la création d'applications autonomes basées sur Spring, de qualité production, que vous pouvez "simplement exécuter".
 
 ### Avantages spring boot
 ---
