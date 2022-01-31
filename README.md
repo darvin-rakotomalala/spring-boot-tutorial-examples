@@ -21,5 +21,6 @@ Dans ce repo, nous allons voir des exemples types de projet Spring Boot.
 ### Des exemples
 ---
 * Spring Boot - Regex: fractionnement par caractère
-* Spring Boot Lombok exemples
+* Spring Boot Lombok exemple
+* Spring Boot Data Transfer Object exemple - Mappage manuellement, ModelMapper et MapStruct
 * 
