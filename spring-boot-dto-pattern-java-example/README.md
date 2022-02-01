@@ -21,6 +21,7 @@ Pour travailler dans un projet Spring Boot, vous auriez besoin des spécificatio
 - Spring Boot v2.0+<br/>
 - JDK v1.8+<br/>
 - Maven 3+ ou Gradle 4+ - outil de construction<br/>
+- PostgreSQL
 - Tout IDE prenant en charge Java et Spring Boot (Spring Tool Suite (STS), IntelliJ, VSCode, NetBeans, etc.)<br/>
 
 ### Dependances Maven
@@ -46,6 +47,8 @@ Dans ce projet nous allons utiliser les dependances de base suivants :
 ### Exécuter et tester les API
 ---
 Pour tester les APIs vous pouvez utiliser Postman, Swagger, curl ou n'importe quel client HTTP :
-* L'API d'URL GET `/api/locations` - renvoie une liste des emplacements de l'utilisateur.
+* L'API d'URL GET `/api/mapManually` - renvoie une liste des emplacements de l'utilisateur.
+* L'API d'URL GET `/api/mapModelMapper` - renvoie une liste des emplacements de l'utilisateur.
+* L'API d'URL GET `/api/mapMapStruct` - renvoie une liste des emplacements de l'utilisateur.
 
-Voila ! dans ce repo nous avons réalisé un exemple d'API REST pour la gestion de produit avec une base PostgreSQL.
+Voila ! dans ce repo nous avons réalisé un exemple d'API REST pour un exemple de modèle Data Transfer Object (DTO) en Java en utilisant mapper.
