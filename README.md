@@ -18,9 +18,4 @@ Dans ce repo, nous allons voir des exemples types de projet Spring Boot.
 * Gestion de dépendances (starters)
 * Création des applications standalone (jar)
 
-### Des exemples
----
-* Spring Boot - Regex: fractionnement par caractère
-* Spring Boot Lombok exemple
-* Spring Boot Data Transfer Object exemple - Mappage manuellement, ModelMapper et MapStruct
-* 
+Vous trouvez dans ce repo les exemples de projet en utilisant Spring Boot.
